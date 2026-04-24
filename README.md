@@ -1,39 +1,106 @@
-# Hi there, I'm Ayub! 👋
-
-### 👨‍💻 About Me
-I am a Computer Engineering student focused on building scalable full-stack web applications, designing intelligent AI architectures, and exploring automated cybersecurity solutions. I enjoy turning complex problems into elegant, user-centric software.
-
-- 🎓 Final-year Computer Engineering student at **Sinhgad College of Engineering**.
-- 💼 Experienced through Web Development internships at **Cognifyz Technologies** and **NeuAI Labs LLP**.
-- 🗣️ Former Social Media Coordinator, skilled at community engagement and digital communication.
-- 🏆 Ranked participant in the *Build with AI* workshop.
-- 🎬 Outside of tech, I have a strong passion for cinematic storytelling, filmmaking, and photography aesthetics.
+<h1 align="center">Hi 👋, I'm Ayub Kureshi</h1>
+<h3 align="center">🚀 Web Developer | AI Enthusiast | Problem Solver</h3>
 
 ---
 
-### 🚀 Featured Projects
-
-* **[CYBERVISION](#)** An AI-assisted automated web penetration testing system designed for vulnerability identification and forensic data validation. *(Final Year Project)*
-* **[CampusConnect](#)** A hyperlocal collaboration and resource hub built to streamline communication, resource sharing, and project planning for university students.
-* **[Recipe Book](#)** A full-stack application featuring robust CRUD functionality and seamless MongoDB integration.
-* **[Airbnb Clone](#)** A dynamic web application replicating core booking, property browsing, and hosting features.
-
----
-
-### 💻 Tech Stack & Focus Areas
-
-* **Full-Stack Development (MERN):** MongoDB, Express.js, React, Node.js
-* **Artificial Intelligence:** Agentic AI, Neural Network Architectures, AI Orchestration
-* **Cybersecurity:** Automated Penetration Testing, Digital Forensics, SQL Injection & XSS mitigation
+## 🌟 About Me
+- 🎓 Computer Engineering Student  
+- 💻 Passionate about **Web Development & AI-based Projects**  
+- 🔍 Interested in **Cybersecurity, AI Tools & Real-world Problem Solving**  
+- 🚀 Currently working on **AI-powered applications & security tools**  
+- 📈 Always learning new technologies and improving my skills  
 
 ---
 
-### 📊 GitHub Stats
-
-[![Ayub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyubKureshi&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AyubKureshi&theme=radical&hide_border=true)](https://git.io/streak-stats)
+## 🔗 Connect With Me
+<p align="left">
+<a href="https://github.com/AyubKureshi" target="blank">GitHub</a> |
+<a href="https://www.linkedin.com/in/ayub-kureshi-010274223/" target="blank">LinkedIn</a> |
+<a href="https://portfolio-yib5.onrender.com" target="blank">Portfolio<a/> |
+<a href="mailto:ayubkureshi21@gmail.com">Email</a>
+</p>
 
 ---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- JavaScript | Python | Java | C++
+
+### 🌐 Web Development
+- React.js | Node.js | Express.js | MongoDB | HTML | CSS | Tailwind
+
+### 🤖 AI & Tools
+- OpenAI API | Gemini API | Machine Learning Basics
+
+### 🛠️ Tools & Platforms
+- Git & GitHub | VS Code | Postman | MongoDB Atlas
+
+---
+
+## 🚀 Projects
+
+### 🔹 Recipe Book App
+- 📌 Full-stack web app to manage recipes  
+- ✨ Features:
+  - Add, edit, delete recipes  
+  - Search & filter by category  
+  - MongoDB integration  
+- 🛠️ Tech: React, Node.js, MongoDB  
+
+---
+
+### 🔹 CyberVision (AI Security Project)
+- 📌 AI-based vulnerability scanning & reporting system  
+- ✨ Features:
+  - Scan targets for vulnerabilities  
+  - AI-generated security reports  
+  - Dashboard for analysis  
+- 🛠️ Tech: Python, AI APIs, React  
+
+---
+
+### 🔹 Portfolio Website
+- 📌 Personal portfolio with modern UI  
+- ✨ Features:
+  - Responsive design  
+  - Smooth animations  
+- 🛠️ Tech: React, Tailwind CSS  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyubKureshi&show_icons=true&theme=radical" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyubKureshi&theme=radical" alt="streak"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+- Advanced React & System Design  
+- AI Integration in Web Apps  
+- Cybersecurity Fundamentals  
+
+---
+
+## 🎯 Goals
+- 🔥 Build impactful AI projects  
+- 💼 Get a role in Software Development / AI  
+- 🌍 Contribute to Open Source  
+
+---
+
+## ⚡ Fun Fact
+> I turn ideas into real-world projects 🚀
+
+---
+
+⭐️ From [AyubKureshi](https://github.com/AyubKureshi)
 
 ### 📫 Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/ayub-kureshi-010274223/
